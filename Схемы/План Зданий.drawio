@@ -1,0 +1,152 @@
+<mxfile host="Electron" modified="2024-05-04T14:19:56.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="5-byTrJAbPpMVO3NNmWo" version="22.0.3" type="device">
+  <diagram name="Страница — 1" id="SYVQhkaV1an1drRdyHHr">
+    <mxGraphModel dx="1487" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2duAue2SnIMibtuB0VZY-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#506786;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="240" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-5" value="Здание 1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;" vertex="1" parent="1">
+          <mxGeometry x="392.7" y="190" width="54.6" height="70.19999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-1" value="Здание 2" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;" vertex="1" parent="1">
+          <mxGeometry x="550" y="310" width="54.6" height="70.19999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-4" value="Здание 3" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;" vertex="1" parent="1">
+          <mxGeometry x="510" y="490" width="54.6" height="70.19999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-2" value="Здание 4" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;" vertex="1" parent="1">
+          <mxGeometry x="290" y="490" width="54.44" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-3" value="Здание 5" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;" vertex="1" parent="1">
+          <mxGeometry x="235.4" y="310" width="54.6" height="70.19999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-19" value="475 м" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontColor=#506786;" vertex="1" parent="1">
+          <mxGeometry x="280" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-20" value="475 м" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontColor=#506786;" vertex="1" parent="1">
+          <mxGeometry x="504.6" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-26" value="475 м" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontColor=#506786;" vertex="1" parent="1">
+          <mxGeometry x="220" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-27" value="475 м" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontColor=#506786;" vertex="1" parent="1">
+          <mxGeometry x="390" y="555" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-28" value="475 м" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontColor=#506786;" vertex="1" parent="1">
+          <mxGeometry x="564.6" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-30" value="Здание 1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="169.8" width="54.6" height="70.19999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-31" value="Здание 2" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;" vertex="1" parent="1">
+          <mxGeometry x="34.6" y="320" width="54.6" height="70.19999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-32" value="Здание 3" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="479.6" width="54.6" height="70.19999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-33" value="Здание 4" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="479.8" width="54.44" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-34" value="Здание 5" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="320" width="54.6" height="70.19999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-40" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=10;strokeColor=#506786;fontColor=#506786;exitX=-0.036;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.015;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2duAue2SnIMibtuB0VZY-30" target="2duAue2SnIMibtuB0VZY-34">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-262.3" y="290" as="sourcePoint" />
+            <mxPoint x="-272.3" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-41" value="475 М" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#506786;" vertex="1" connectable="0" parent="2duAue2SnIMibtuB0VZY-40">
+          <mxGeometry x="-0.0035" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-44" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=10;exitX=1.025;exitY=1.026;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#506786;fontColor=#506786;entryX=0.002;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2duAue2SnIMibtuB0VZY-30" target="2duAue2SnIMibtuB0VZY-31">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-78" y="334" as="sourcePoint" />
+            <mxPoint x="-10" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-45" value="475 М" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#506786;" vertex="1" connectable="0" parent="2duAue2SnIMibtuB0VZY-44">
+          <mxGeometry x="-0.0035" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-46" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=10;exitX=-0.021;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.986;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#506786;fontColor=#506786;" edge="1" parent="1" source="2duAue2SnIMibtuB0VZY-33" target="2duAue2SnIMibtuB0VZY-34">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-540" y="594" as="sourcePoint" />
+            <mxPoint x="-442" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-47" value="475 М" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#506786;" vertex="1" connectable="0" parent="2duAue2SnIMibtuB0VZY-46">
+          <mxGeometry x="-0.0035" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-48" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=10;exitX=0.958;exitY=0.505;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.067;entryY=0.519;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#506786;fontColor=#506786;" edge="1" parent="1" source="2duAue2SnIMibtuB0VZY-33" target="2duAue2SnIMibtuB0VZY-32">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-170" y="572" as="sourcePoint" />
+            <mxPoint x="-72" y="478" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-49" value="475 М" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#506786;" vertex="1" connectable="0" parent="2duAue2SnIMibtuB0VZY-48">
+          <mxGeometry x="-0.0035" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-50" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=10;exitX=0.986;exitY=0.044;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.016;entryY=1.047;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#506786;fontColor=#506786;" edge="1" parent="1" source="2duAue2SnIMibtuB0VZY-32" target="2duAue2SnIMibtuB0VZY-31">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-80" y="490" as="sourcePoint" />
+            <mxPoint x="18" y="396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-51" value="475 М" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#506786;" vertex="1" connectable="0" parent="2duAue2SnIMibtuB0VZY-50">
+          <mxGeometry x="-0.0035" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-53" value="Здание 1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;" vertex="1" parent="1">
+          <mxGeometry x="942.7" y="180" width="54.6" height="70.19999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-54" value="Здание 2" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="300" width="54.6" height="70.19999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-55" value="Здание 3" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="480" width="54.6" height="70.19999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-56" value="Здание 4" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;" vertex="1" parent="1">
+          <mxGeometry x="840" y="480" width="54.44" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-57" value="Здание 5" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;" vertex="1" parent="1">
+          <mxGeometry x="785.4" y="300" width="54.6" height="70.19999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-63" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.082;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.04;exitY=0.726;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2duAue2SnIMibtuB0VZY-57" target="2duAue2SnIMibtuB0VZY-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="380" as="sourcePoint" />
+            <mxPoint x="1000" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-64" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.052;entryY=0.169;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2duAue2SnIMibtuB0VZY-53" target="2duAue2SnIMibtuB0VZY-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="340" as="sourcePoint" />
+            <mxPoint x="1050" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-65" value="" style="endArrow=none;html=1;rounded=0;entryX=0.36;entryY=1.023;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.589;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2duAue2SnIMibtuB0VZY-55" target="2duAue2SnIMibtuB0VZY-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="980" y="380.2" as="sourcePoint" />
+            <mxPoint x="1080" y="456.2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2duAue2SnIMibtuB0VZY-67" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.006;entryY=1.035;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.004;exitY=0.014;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2duAue2SnIMibtuB0VZY-56" target="2duAue2SnIMibtuB0VZY-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="424" as="sourcePoint" />
+            <mxPoint x="1084" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
